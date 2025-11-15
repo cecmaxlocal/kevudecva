@@ -1,0 +1,21 @@
+Dell machines come with specific license terms that cover both hardware and software components. The license agreements typically include:
+
+- Software licenses for Dell software that may be preinstalled on the hardware or provided with it, which specify that software is licensed for use only on the hardware it was intended for and under terms delimiting use, transfer, modification, and sublicensing rights.
+- OEM licenses, such as those for Windows Server, which are bundled with the Dell hardware and can only be used on the specific server chassis to which they are attached. These licenses often include a Certificate of Authenticity label attached to the machine.
+- Enterprise License Agreements (ELAs) that describe software use, restrictions, warranty disclaimers, and termination conditions applicable to Dell software and bundled software.
+- End user license agreements (EULAs) specific to Dell Technologies products that outline permitted usage, license key usage, confidentiality, and compliance with export laws.
+
+Generally, Dell licenses restrict software use to the authorized Dell hardware, limit sublicensing or transfer without Dell's consent, and disclaim warranties beyond the conformity to provided specifications. Users must adhere to the terms specified at purchase or as detailed in the license agreement documents provided by Dell or its authorized resellers.[1][2][3][4][5]
+
+If a Dell machine includes a licensed operating system or software, the license activation and key usage are tied to that hardware, and any virtualization or license term extension requires compliance with Dell's license terms. In summary, the Dell machine license governs both the physical hardware use and the accompanying software licenses with specific restrictions and conditions.
+
+[1](https://www.dell.com/en-us/lp/legal/terms-of-sale-consumer-license-agreements)
+[2](https://www.delltechnologies.com/asset/en-us/solutions/business-solutions/legal-pricing/dellemc_subscription_based_license_terms.pdf)
+[3](https://www.dlt.com/sites/default/files/sr/brand/dell-software/Dell%20Enterprise%20License%20Agreement-%20Hardware.pdf)
+[4](https://www.dell.com/en-us/lp/legal/art-software-license-agreements)
+[5](https://www.dell.com/support/kbdoc/en-us/000175471/windows-server-dell-oem-license)
+[6](https://www.dell.com/learn/us/en/rc1302742/terms-of-sale-consumer-license-agreements)
+[7](https://i.dell.com/sites/csdocuments/Legal_Docs/en/us/community-edition-software-license-agreement.pdf)
+[8](https://www.dell.com/en-us/lp/legal/terms-of-sale)
+[9](https://www.dell.com/support/home/pt-br?app=licenses)
+[10](https://www.dell.com/support/home/en-br?app=licenses)

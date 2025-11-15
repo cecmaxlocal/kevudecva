@@ -1,0 +1,28 @@
+Open source licenses are legal frameworks that allow software to be freely used, modified, and distributed by anyone, subject to certain conditions. They generally fall into two primary categories:
+
+### 1. Permissive Licenses
+- These licenses impose minimal restrictions on reuse and modification, allowing software to be included in proprietary projects.
+- Examples include the MIT License, BSD Licenses, and Apache License 2.0.
+- They typically require attribution to the original author and preservation of license notices but do not require derivative works to be open source.
+- The Apache License includes an explicit patent grant and a patent retaliation clause to protect against patent litigation.[1][2][5]
+
+### 2. Copyleft Licenses
+- These licenses require that any derivative works be distributed under the same license terms, ensuring that the software and its modifications remain open source.
+- The GNU General Public License (GPL) family is the most prominent example.
+- Copyleft licenses promote continued openness but impose reciprocal obligations on users who distribute modified versions.[2][3][6][1]
+
+### Summary
+Open source licenses enable collaboration and innovation by legally permitting use, study, modification, and sharing with varying levels of restriction designed to protect authors and users. Permissive licenses provide maximum flexibility, while copyleft licenses ensure ongoing openness of derivative works. Popular examples include MIT, Apache 2.0, BSD (permissive), and GPL (copyleft). Selecting the right license depends on goals regarding openness, commercial use, and patent protections.[3][5][6][7][1][2]
+
+This licensing framework is foundational to the open source software ecosystem, fostering freedom and legal clarity.
+
+[1](https://snyk.io/articles/open-source-licenses/)
+[2](https://www.hotwaxsystems.com/hotwax-blog/what-are-the-different-types-of-open-source-licenses)
+[3](https://en.wikipedia.org/wiki/Open-source_license)
+[4](https://www.sonatype.com/blog/open-source-licenses-explained)
+[5](https://www.mend.io/blog/top-open-source-licenses-explained/)
+[6](https://solutionshub.epam.com/blog/post/open-source-licenses-definition-types-and-comparison)
+[7](https://opensource.org/licenses)
+[8](https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf)
+[9](https://choosealicense.com/licenses/)
+[10](https://www.blackduck.com/glossary/what-are-open-source-licenses.html)

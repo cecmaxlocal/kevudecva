@@ -1,0 +1,22 @@
+The MIT License is a popular open-source license used by Microsoft for some of its software projects. It grants users very broad rights to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, essentially without restriction. The main conditions are that the copyright notice and the license text must be included in all copies or substantial portions of the software. The software is provided "as is," without any warranty, meaning Microsoft disclaims all liability for damages or issues arising from use of the software.[1]
+
+Microsoft uses the MIT License specifically for projects like Visual Studio Code, whose source code is available on GitHub under this license. This license provides maximum freedom to users and developers while protecting Microsoft from warranty claims.[3]
+
+In contrast, Microsoft’s proprietary software licenses (such as for Windows or Microsoft Office) are more restrictive, usually forbidding reverse engineering, redistribution, and transfer without permission, and are often limited to use under specific terms and conditions.[2]
+
+In summary:
+
+| License Aspect             | MIT License                    | Microsoft Proprietary Licenses       |
+|---------------------------|-------------------------------|-------------------------------------|
+| Usage Rights              | Broad: use, copy, modify, etc. | Limited to usage terms, no modification allowed |
+| Redistribution            | Allowed freely with notice     | Restricted or forbidden             |
+| Warranty                  | None (as-is)                  | Typically limited or none           |
+| Common Use                | Open-source projects like VS Code | Commercial software like Windows    |
+| Transfer/Sublicense       | Allowed                       | Typically restricted                |
+
+So, "MIT license Microsoft" refers mainly to Microsoft software projects published under the MIT License, granting open-source freedoms, while Microsoft's commercial products use their own proprietary license terms.[1][2][3]
+
+[1](https://opensource.org/license/mit)
+[2](https://docs.oracle.com/cd/F32325_01/doc.192/f32334/microsoft_license_software_terms.htm)
+[3](https://code.visualstudio.com/license)
+[

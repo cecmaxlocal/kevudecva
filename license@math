@@ -1,0 +1,29 @@
+Mathematical software licenses vary depending on the type of software and the intended use, such as academic, commercial, or personal.
+
+### Common License Types for Mathematical Software
+- **Single-User License:** Grants one user the right to install and use the software on a specific machine. Common for personal or small-scale use. Example: Mathematica single-user license.[1]
+- **Network License (Concurrent):** Allows multiple users to share a pool of licenses over a network, used in labs or institutions where many users access software intermittently.[1]
+- **Perpetual License:** Allows indefinite use of a specific version of the software after a one-time purchase. Widely used in academic and professional settings for mathematical tools like MATLAB, SPSS, or Mathcad.[2][3][7]
+- **Subscription License:** Provides access for a limited time, often with ongoing updates and support included. Common in modern licensing models for software like MATLAB.[3][2]
+- **Academic and Research Licenses:** These licenses are discounted or modified terms for educational institutions, researchers, and students to facilitate learning and scientific work.[4][7]
+
+### Licensing in Popular Mathematical Software
+- **Mathematica:** Offers single user and network licenses; network licensing requires a license server.[1]
+- **MATLAB:** License options include personal use, commercial, academic, startup, and student licenses with perpetual or subscription terms.[3]
+- **Mathcad Prime:** Provides different licensing bases tailored to engineering and math professionals.[6]
+
+### Summary
+Mathematical software licenses are designed to suit varied environments from individual to institutional use, with flexible licensing models such as single-user, network concurrent, perpetual, and subscription licenses. Academic licenses are commonly available to support educational and research purposes. This ensures access, scalability, and compliance based on user needs and budgets.[2][4][6][3][1]
+
+If you want details for a specific mathematical software or license type, that can be provided as well.
+
+[1](https://berkeley.service-now.com/kb_view.do?sysparm_article=KB0013397)
+[2](https://alfasoft.com/blog/alfasoft/what-you-need-to-know-about-the-different-software-license-models-and-types/)
+[3](https://www.mathworks.com/pricing-licensing.html)
+[4](https://www.revenera.com/blog/software-monetization/software-licensing-models-types/)
+[5](https://www.blackduck.com/blog/5-types-of-software-licenses-you-need-to-understand.html)
+[6](https://www.ptc.com/en/store/products/mathcad/ptc-mathcad-prime)
+[7](https://ezo.io/assetsonar/blog/perpetual-software-license/)
+[8](https://en.wikipedia.org/wiki/Software_license)
+[9](https://www.wolfram.com/mathematica/pricing/)
+[10](https://en.wikipedia.org/wiki/List_of_open-source_software_for_mathematics)
